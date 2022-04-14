@@ -9,7 +9,7 @@ a {color: #777; text-decoration: none; border-bottom: 1px solid #CCFF26; target:
 a:hover {border-bottom: 1px solid #CCFF26; color: #222}
 p {font-weight: 200; font-size: 20px;}
 ul {font-weight: 200; font-size: 20px;}
-table {border: 1px;}
+table {border: 1px solid black;}
 td {font-weight: 200; font-size: 20px;}
 tr:nth-child(even) {background-color: #CCFF26;}
 
