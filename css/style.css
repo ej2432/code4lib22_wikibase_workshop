@@ -7,7 +7,6 @@ body, html {height: 100%;}
 
 a {color: #777; text-decoration: none; border-bottom: 1px solid #CCFF26;}
 a:hover {border-bottom: 1px solid #CCFF26; color: #222}
-h1 {text-decoration: underline;}
 p {font-weight: 200; font-size: 20px;}
 
 .name {font-family: Playfair Display; font-size: 50px; font-weight: 900; padding-bottom: 20px;}
